@@ -1,6 +1,6 @@
 ---
 　　layout: default
-　　title: 2012-8-28-hello-world 
+　　title: hello world 
 ---
 　　<h2>{{ page.title }}</h2>
 　　<p>first article</p>
